@@ -4,6 +4,9 @@
   src: url('fonts/Vipnagorgialla.otf') format('opentype');
 }
 
+.underline {
+  text-decoration: underline;
+}
 
 .desktop-1,
 .desktop-1 * {
