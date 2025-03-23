@@ -674,7 +674,7 @@
   justify-content: center;
 }
 .body {
-  padding: 45px 64px 15px 64px;
+  padding: 0px 64px 15px 64px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -684,14 +684,11 @@
   position: relative;
 }
 .line {
-  margin-top: -1px;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 1px 0 0 0;
-  align-self: stretch;
-  flex-shrink: 0;
-  height: 0px;
-  position: relative;
+  background-image:
+  linear-gradient(#000 .1em, transparent .1em); 
+  background-size: 100% 1.2em;
+  height: 100%;
+  width: 100%;
 }
 .line-12 {
   margin-top: -1px;
