@@ -689,11 +689,13 @@
   align-self: stretch;
   flex: 1;
   position: relative;
+  outline: #d9d9d9 solid .2em;
+  outline-offset: -.2em;
 }
 .line {
   background-image:
   linear-gradient(#000 .1em, transparent .1em); 
-  background-size: 100% 1.2em;
+  background-size: 100% 1.5em;
   height: 100%;
   width: 100%;
 }
@@ -907,7 +909,7 @@
   font-weight: 400;
   position: absolute;
   left: 64px;
-  top: 22px;
+  top: 2px;
   width: 494px;
   height: 22px;
 }
@@ -920,7 +922,7 @@
   font-weight: 400;
   position: absolute;
   left: 65px;
-  top: 50px;
+  top: calc(2px + 1.5em);
   width: 494px;
   height: 22px;
 }
@@ -933,7 +935,7 @@
   font-weight: 400;
   position: absolute;
   left: 65px;
-  top: 76px;
+  top: calc(2px + 1.5em * 2);
   width: 494px;
   height: 22px;
 }
@@ -946,7 +948,7 @@
   font-weight: 400;
   position: absolute;
   left: 65px;
-  top: 103px;
+  top: calc(2px + 1.5em * 3);
   width: 494px;
   height: 22px;
 }
@@ -959,7 +961,7 @@
   font-weight: 400;
   position: absolute;
   left: 64px;
-  top: 131px;
+  top: calc(2px + 1.5em * 4);
   width: 494px;
   height: 22px;
 }
@@ -972,7 +974,7 @@
   font-weight: 400;
   position: absolute;
   left: 64px;
-  top: 159px;
+  top: calc(2px + 1.5em * 5);
   width: 494px;
   height: 22px;
 }
@@ -985,7 +987,7 @@
   font-weight: 400;
   position: absolute;
   left: 65px;
-  top: 213px;
+  top: calc(2px + 1.5em * 7);
   width: 494px;
   height: 22px;
 }
