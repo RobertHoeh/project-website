@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+  font-family: 'Vipnagorgialla-Regular';
+  src: url('fonts/Vipnagorgialla.otf') format('opentype');
+}
+
+
 .desktop-1,
 .desktop-1 * {
   box-sizing: border-box;
@@ -142,7 +149,7 @@
 .online-memo-pad {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Medium", sans-serif;
+  font-family: "Urbanist", sans-serif;
   font-size: 36px;
   font-weight: 500;
   position: relative;
@@ -179,7 +186,7 @@
 .january {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -190,7 +197,7 @@
 .february {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -201,7 +208,7 @@
 .march {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -212,7 +219,7 @@
 .april {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -223,7 +230,7 @@
 .may {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -234,7 +241,7 @@
 .june {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -245,7 +252,7 @@
 .july {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -256,7 +263,7 @@
 .august {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -267,7 +274,7 @@
 .september {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -278,7 +285,7 @@
 .october {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -289,7 +296,7 @@
 .november {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -300,7 +307,7 @@
 .december {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -324,7 +331,7 @@
 ._0 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -335,7 +342,7 @@
 ._1 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -346,7 +353,7 @@
 ._2 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -357,7 +364,7 @@
 ._3 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -368,7 +375,7 @@
 ._4 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -379,7 +386,7 @@
 ._5 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -390,7 +397,7 @@
 ._6 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -401,7 +408,7 @@
 ._7 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -412,7 +419,7 @@
 ._8 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -423,7 +430,7 @@
 ._9 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -434,7 +441,7 @@
 ._10 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -445,7 +452,7 @@
 ._11 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -456,7 +463,7 @@
 ._12 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -467,7 +474,7 @@
 ._13 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -478,7 +485,7 @@
 ._14 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -489,7 +496,7 @@
 ._15 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -500,7 +507,7 @@
 ._16 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -511,7 +518,7 @@
 ._17 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -522,7 +529,7 @@
 ._18 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -533,7 +540,7 @@
 ._19 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -544,7 +551,7 @@
 ._20 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -555,7 +562,7 @@
 ._21 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -566,7 +573,7 @@
 ._22 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -577,7 +584,7 @@
 ._23 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -588,7 +595,7 @@
 ._24 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -599,7 +606,7 @@
 ._25 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -610,7 +617,7 @@
 ._26 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -621,7 +628,7 @@
 ._27 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -632,7 +639,7 @@
 ._28 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -643,7 +650,7 @@
 ._29 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -654,7 +661,7 @@
 ._30 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -665,7 +672,7 @@
 ._31 {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Regular", sans-serif;
+  font-family: "Urbanist Regular", sans-serif;
   font-size: 10px;
   font-weight: 400;
   position: relative;
@@ -872,7 +879,7 @@
 .from-nolan-sorrento {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Medium", sans-serif;
+  font-family: "Urbanist", sans-serif;
   font-size: 20px;
   font-weight: 500;
   position: relative;
@@ -883,7 +890,7 @@
 .to-ioi-board-of-executives {
   color: #000000;
   text-align: center;
-  font-family: "Urbanist-Medium", sans-serif;
+  font-family: "Urbanist", sans-serif;
   font-size: 20px;
   font-weight: 500;
   position: relative;
@@ -894,7 +901,7 @@
 .it-is-clear-that-these-egg-hunters-are-our-only-way {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -907,7 +914,7 @@
 .we-are-going-to-get-to-the-egg-we-need-to-capture {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -920,7 +927,7 @@
 .them-parsival-has-too-much-of-a-following-we {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -933,7 +940,7 @@
 .can-t-endanger-that-but-art-3-mis-and-shoto-we-can {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -946,7 +953,7 @@
 .we-need-them-captured-and-brought-here-once-we {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -959,7 +966,7 @@
 .have-them-get-the-egg-they-would-be-disposed-of {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
@@ -972,7 +979,7 @@
 .any-objections {
   color: #000000;
   text-align: left;
-  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-family: "Jetbrains Mono", sans-serif;
   font-size: 16px;
   line-height: 207.13%;
   font-weight: 400;
