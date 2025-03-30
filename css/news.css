@@ -181,12 +181,15 @@ body {
   opacity: 1;
   text-align: left;
 }
+.v72_22 a {
+  color: black;
+}
 .v72_23 {
   position: absolute;
   width: 715.57px;
   height: 1.1px;
   top: 7.3px;
-  left: calc(155.24px + 14.27px);
+  left: calc(352.81px + 14.27px);
   background: black;
 }
 /* .v72_23 {
