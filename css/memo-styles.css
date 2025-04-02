@@ -10,6 +10,10 @@
   background: linear-gradient(white, black);
 }
 
+.hidden {
+	color: black;
+}
+
 .agreement {
   width: 100%;
   height: auto;
