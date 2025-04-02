@@ -22,8 +22,10 @@
   font-family: "Jetbrains Mono", sans-serif;
   color: lime;
 }
-a {
+
+.link {
   color: lime;
+  text-decoration: underline;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
