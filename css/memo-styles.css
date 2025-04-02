@@ -23,7 +23,7 @@
   color: lime;
 }
 
-.link {
+a.link {
   color: lime;
   text-decoration: underline;
 }
