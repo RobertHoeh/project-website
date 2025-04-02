@@ -66,6 +66,10 @@ p {
     color: lime;
 }
 
+.hidden {
+	color: black;
+}
+
 div {
     height: 300%;
 }
